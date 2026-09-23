@@ -1,0 +1,25 @@
+text,label,predicted_label
+Company reports record quarterly profit and strong revenue growth,positive,positive
+Strong demand helped the company exceed earnings expectations,positive,positive
+Revenue increased significantly during the quarter,positive,positive
+Company announces major expansion plans and expects strong growth,positive,positive
+Investors welcomed the company's improved financial outlook,positive,positive
+Shares rose after the company reported better than expected earnings,positive,positive
+Company achieved higher profits due to strong sales,positive,positive
+Management expects continued revenue growth next year,positive,positive
+The company reported a significant loss and declining revenue,negative,negative
+Weak demand caused profits to fall sharply,negative,negative
+Company lowered its revenue forecast for the coming year,negative,negative
+Shares dropped after disappointing quarterly results,negative,negative
+Rising costs negatively affected the company's profitability,negative,negative
+Investors expressed concerns about the company's increasing debt,negative,negative
+Company announced layoffs following weak financial performance,negative,negative
+Analysts downgraded the company following disappointing earnings,negative,negative
+The company reported quarterly revenue in line with expectations,neutral,positive
+Management maintained its existing financial outlook,neutral,neutral
+Shares remained largely unchanged during today's trading session,neutral,neutral
+The company announced a routine board meeting for next month,neutral,neutral
+Quarterly results were broadly in line with market expectations,neutral,positive
+The bank maintained its existing interest rate policy,neutral,neutral
+Trading activity remained stable throughout the session,neutral,positive
+Management provided no changes to its previous guidance,neutral,neutral
